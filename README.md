@@ -31,11 +31,11 @@ Used coroutines to show the current location of the ISS and update it every 5 se
                             
                             if (response.message == "success") {
                         
-                        initISSLocation(response.whereAbouts)
+                                initISSLocation(response.whereAbouts)
                          
-                         }
+                             }
                        
-                       }
+                         }
                       
                       } catch (e: HttpException) {
                             Log.d("REQUEST", "Exception ${e.message}")
