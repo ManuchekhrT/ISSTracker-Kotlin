@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ISSTracker</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="there_are_currently_6_humans_in_space">There are currently 6 humans in space</string>
+    <string name="textview">TextView</string>
+    <string name="refresh">Refresh</string>
+    <string name="app_title">ISS Tracker</string>
+</resources>
